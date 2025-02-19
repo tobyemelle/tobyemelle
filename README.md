@@ -11,4 +11,4 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tobyemelle/azure-net-protocols.git)
   - [VPN Setup and Usage](https://github.com/tobyemelle/VPN-LAB)
   - [Exploring DNS Management and Practices]()
-  - [Network Shares and File Permissions]()
+  - [Network Shares and File Permissions](https://github.com/tobyemelle/network-file-share-lab)
